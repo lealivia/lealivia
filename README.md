@@ -1,9 +1,9 @@
 <p align="left"> 
-  Olá meu nome é Lívia, sou desenvolvedora <strong>FullStack</strong> em processo de amadurecimento.
+    Hi my name is Lívia, i'm a <strong>FullStack</strong> developer in progress.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, MySQL and Git.</strong>
+  💼 Tools: <strong>VSCode, MySQL and Git.</strong>
 </p>
 
 
@@ -11,7 +11,7 @@
 
  You can find my repositories here: [Repositories](https://github.com/lealivia?tab=repositories)
   
-Redes Sociais:
+Social Mídia:
 
 [![Gmail Badge](https://img.shields.io/badge/-livia.lealxx@gmail.com-800000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livia.lealxx@gmail.com)](mailto:livia.lealxx@gmail.com)
 </p>  
