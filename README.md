@@ -11,7 +11,7 @@
 
  You can find my repositories here: [Repositories](https://github.com/lealivia?tab=repositories)
   
-Social Mídia:
+Contact:
 
 [![Gmail Badge](https://img.shields.io/badge/-livia.lealxx@gmail.com-800000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livia.lealxx@gmail.com)](mailto:livia.lealxx@gmail.com)
 </p>  
