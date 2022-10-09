@@ -9,7 +9,7 @@
 
 <p align="left">
 
- You can find my repositories on:[Repositories](https://github.com/lealivia?tab=repositories)
+ You can find my repositories here: [Repositories](https://github.com/lealivia?tab=repositories)
   
 Redes Sociais:
 
